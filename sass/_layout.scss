@@ -9,8 +9,14 @@
 
 .header {
   height: 7rem;
+  font-size: 1.4rem;
   background-color: white;
   border-bottom: var(--grey-light-2);
+  display: flex;
+  // Along main-axis
+  justify-content: space-between;
+  // Along cross-axis
+  align-items: center;
 }
 
 .content {
