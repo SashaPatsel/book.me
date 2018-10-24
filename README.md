@@ -4,15 +4,17 @@
 
 [Book.me](https://sashapatsel.github.io/book.me/) is a template for a hotel booking site, showcasing some of the newest and coolest features in CSS!
 
+[Book.me](https://sashapatsel.github.io/book.me/)  is a great place to get design inspiration, and to view some neat and reusable components.
 
+[Book.me](https://sashapatsel.github.io/book.me/) is fully responsive. It adapts to whatever screen size it is viewed on
 
-## Getting Started
+Note: Book.me is a static app. In other words, it does not have much functionality other than what can be done in css. 
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Getting started
+If you would like to build on this project, or make it your own in some way, simply fork this repository.
 
-### Prerequisites
+Once you have done so, you will need to run either `yarn` or `npm i` to install all the prerequisite packages.
 
-A modern text editor and browser. 
 
 
 ## Making the App
